@@ -1,4 +1,3 @@
-# FAKE_IMAGE_DETECTION
 # Fake Image Detector
 
 **Image Tampering Detection using ELA and CNN**
@@ -24,4 +23,3 @@ Combine the implementation of error-level analysis (ELA) and deep learning to de
 
 ## Dataset
 Please refer to issue [#1](https://github.com/agusgun/FakeImageDetector/issues/1).
-
